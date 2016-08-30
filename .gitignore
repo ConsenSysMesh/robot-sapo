@@ -15,3 +15,5 @@ config/test/*.sol.js
 build
 .DS_Store
 */**/.DS_Store
+
+start_env.sh
